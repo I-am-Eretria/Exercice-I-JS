@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #2E3239;
+}
+
+
+.carre{
+    background-color: #5F7ADB;
+    color: white;
+    border-radius: 10px;
+
+    min-height: 200px;
+    min-width: 200px;
+    max-width: fit-content;
+
+    margin: 100px;
+
+    font-family: "Times New Roman";
+    font-size: 40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
