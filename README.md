@@ -1,5 +1,5 @@
 # JavaScript : Exercice I 💻 #
-## - Créer une page web affichant un carré (couleur & contenu de votre choix) - ##
+## - Créer une page web affichant un carré (couleur/contenu de votre choix) - ##
 
 <br>
 
